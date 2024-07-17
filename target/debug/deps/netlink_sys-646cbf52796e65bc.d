@@ -1,0 +1,12 @@
+/home/eisak/programs/client/target/debug/deps/libnetlink_sys-646cbf52796e65bc.rmeta: /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/lib.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/constants.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/socket.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/addr.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/async_socket.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/async_socket_ext.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/tokio.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/smol.rs
+
+/home/eisak/programs/client/target/debug/deps/netlink_sys-646cbf52796e65bc.d: /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/lib.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/constants.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/socket.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/addr.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/async_socket.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/async_socket_ext.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/tokio.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/smol.rs
+
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/lib.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/constants.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/socket.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/addr.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/async_socket.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/async_socket_ext.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/tokio.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/netlink-sys-0.8.6/src/smol.rs:

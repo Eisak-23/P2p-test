@@ -1,0 +1,13 @@
+/home/eisak/programs/client/target/debug/deps/liblog-8ef5c0a394ac6d89.rmeta: /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/mod.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/error.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/key.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/source.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/value.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/home/eisak/programs/client/target/debug/deps/log-8ef5c0a394ac6d89.d: /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/mod.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/error.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/key.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/source.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/value.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/mod.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/error.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/key.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/source.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/kv/value.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs:

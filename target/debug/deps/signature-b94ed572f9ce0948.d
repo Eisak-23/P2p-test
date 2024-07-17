@@ -1,0 +1,12 @@
+/home/eisak/programs/client/target/debug/deps/libsignature-b94ed572f9ce0948.rmeta: /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/lib.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/hazmat.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/encoding.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/error.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/keypair.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/signer.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/verifier.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/../README.md
+
+/home/eisak/programs/client/target/debug/deps/signature-b94ed572f9ce0948.d: /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/lib.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/hazmat.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/encoding.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/error.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/keypair.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/signer.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/verifier.rs /home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/../README.md
+
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/lib.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/hazmat.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/encoding.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/error.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/keypair.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/signer.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/verifier.rs:
+/home/eisak/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/../README.md:
